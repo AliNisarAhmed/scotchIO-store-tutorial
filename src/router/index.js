@@ -1,8 +1,8 @@
 import Vue from 'vue';
 import Router from 'vue-router';
+
 import Home from '@/pages/Home';
 import Cart from '@/pages/Cart';
-
 import Index from '@/pages/Admin/Index';
 import Edit from '@/pages/Admin/Edit';
 import New from '@/pages/Admin/New';

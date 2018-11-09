@@ -8,6 +8,7 @@
             <li><router-link to="/admin/new">new Product</router-link></li>
           </ul>
         </div>
+        <router-view></router-view>
       </div>
     </div>
   </div>
